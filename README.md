@@ -6,7 +6,7 @@ Firmware [kmk](https://github.com/KMKfw/kmk_firmware) napisany i konfigurowany w
 
 - mikrokontroler RP2040 (16MB flash)
 - przełączniki tactile Holy Panda (czemó? **temu**)
-- potencjometr EC11
+- enkoder EC11
 - WS2812b LED (3 diody)
 - bez PCB
 
@@ -14,7 +14,7 @@ Firmware [kmk](https://github.com/KMKfw/kmk_firmware) napisany i konfigurowany w
 
 - podświetlenie RGB
 - 4 warstwy
-- potencjometr
+- enkoder (_rotary encoder_)
 
 ## Getting started
 
@@ -24,7 +24,7 @@ _Disclaimer: stan klawiatury, tj. obecna warstwa, ustawione (zmienione) podświe
 
 ## Obecna keymapa
 
-### Potencjometr:
+### Rotary encoder:
 - 1x klik: `MUTE`
 - 2x klik: kolejna warstwy
 - 3x klik: warstwa RGB
@@ -74,7 +74,7 @@ Obecnie zdefiniowane 3 macro. Można oczywiście napisać swoje.
 # ,------. ↑ SCROLL_RIGHT
 # | MUTE | ↓ SCROLL_LEFT            
 # |------+-------------.
-# |   C  |   H  |   U  |  J
+# |   C  |   H  |   U  |  *
 # `--------------------'
 ```
 
