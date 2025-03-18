@@ -1,5 +1,7 @@
 # ⌨️ Instrukcja do klawiaturki
 
+![preview-side-underglow](./assets/elek-kb-photo1.jpg) 
+
 Firmware [kmk](https://github.com/KMKfw/kmk_firmware) napisany i konfigurowany w [CircuitPython](https://github.com/adafruit/circuitpython). Także config w pythonie.
 
 ## Specs
@@ -90,6 +92,11 @@ Fajna funkcjonalność zastosowana tutaj. W zależności od tego ile razy zostan
 ## Tap Hold
 
 Kolejna fajna rzecz (nie zastosowana tutaj w configu akurat). Na kliknięcie i przytrzymanie klawisza są osobne funkcjonalności. Np. jak kliknę Escape to się wywoła `ESC`, ale jak przytrzymam to włączy się `CAPSLOCK`.
+
+## Preview
+
+![preview-top](./assets/elek-kb-photo2.jpg) 
+![preview-handwired](./assets/elek-kb-photo3.jpg) 
 
 ## Uwagi końcowe
 
